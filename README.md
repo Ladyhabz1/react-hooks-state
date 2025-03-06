@@ -17,7 +17,7 @@ applications, so make sure to pay extra attention to this lesson! If you'd like
 to explore state in more depth, the [new React docs][react docs beta] have a
 great section on learning about state with example code to explore.
 
-You can fork and clone this lesson's repository if you'd like to see a working
+You can fork and clone this lesson's repository if you had like to see a working
 version of a component that uses state and explore the code.
 
 ## What's state?
